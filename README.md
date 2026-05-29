@@ -1,6 +1,8 @@
 
 # halbestunde-python-client
 
+[![Built by MusicTech Lab](https://musictechlab.io/oss/build-by-musictechlab.io.svg)](https://musictechlab.io)
+
 `halbestunde-python-client` is an unofficial and open source Python library for interacting with the Halbestunde API. It provides methods for authentication, managing OMR (Optical Music Recognition) uploads, and retrieving recognition results.
 
 ## Features
@@ -185,4 +187,3 @@ SOFTWARE.
   <a href="mailto:office@bravelab.io">Let's talk</a><br>
   Crafted by https://www.bravelab.io
 </div>
-
