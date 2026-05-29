@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bravelab/halbestunde-python-client.git
+   git clone https://github.com/musictechlab/mtl-halbestunde-python-client.git
    cd halbestunde-python-client
    ```
 
@@ -180,10 +180,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 <div align="center">
-  Bravelab. Digital Commerce Solution For The Music Industry<br>
-  <a href="https://www.bravelab.io/">Website</a>
+  MusicTech Lab. Digital Commerce Solution For The Music Industry<br>
+  <a href="https://musictechlab.io/">Website</a>
   <span> | </span>
-  <a href="https://linkedin.com/company/bravelab.io">LinkdedIn</a><span> | </span>
-  <a href="mailto:office@bravelab.io">Let's talk</a><br>
-  Crafted by https://www.bravelab.io
+  <a href="https://www.linkedin.com/company/musictechlab">LinkdedIn</a><span> | </span>
+  <a href="mailto:contact@musictechlab.io">Let's talk</a><br>
+  Crafted by <a href="https://musictechlab.io">musictechlab.io</a>
 </div>
